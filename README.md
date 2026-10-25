@@ -61,7 +61,14 @@
 ### Technical Competency Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,java,react,nodejs,express,postgres,mongodb,html,css,tailwind,bash,linux,git,docker,postman,vite&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,py,java,kotlin,php,bash,html,css,react,nodejs,express,flask,vite,bootstrap,tailwind,postgres,mysql,mongodb,sqlite,linux,kali,git,githubactions,docker,postman&perline=14" alt="Technical Competency Stack" />
+</p>
+<p align="left">
+  <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark" /></a>
+  <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" /></a>
+  <a href="https://www.tenable.com/products/nessus"><img src="https://img.shields.io/badge/Nessus-002F6C?style=for-the-badge&logo=radar&logoColor=white" alt="Nessus" /></a>
+  <a href="https://www.opengl.org/"><img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" /></a>
+  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" /></a>
 </p>
 
 | Domain | Tools & Technologies |
@@ -74,15 +81,8 @@
 
 ---
 
-### GitHub Activity & Language Breakdown
+### Most Used Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=4aru5h&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Aarush's GitHub Activity" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4aru5h&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="150" />
-</p>
-
----
-
-<p align="center">
-  <sub>Engineered with precision by <a href="https://github.com/4aru5h">Aarush Sharma</a>. Open to Software Engineering, Systems, and Security roles.</sub>
 </p>
