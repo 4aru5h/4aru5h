@@ -14,42 +14,42 @@
 
 ---
 
-### 🚀 Featured Work
+### Featured Work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">⚡ <a href="https://github.com/4aru5h/bolt-lang">bolt-lang</a></h3>
+      <h3 align="left"><a href="https://github.com/4aru5h/bolt-lang">bolt-lang</a></h3>
       <p>A toy dynamically typed programming language built from scratch in TypeScript. Features an interactive Monaco playground, recursive descent parser with precedence climbing, and AST tree-walking interpreter running inside a Web Worker sandbox with live terminal streaming.</p>
       <p>
-        <a href="https://boltlang.vercel.app"><b>🌐 Live Web Playground</b></a> &bull; 
+        <a href="https://boltlang.vercel.app"><b>Live Web Playground</b></a> &bull;
         <a href="https://4aru5h.github.io/bolt-lang/">Alternative Mirror</a>
       </p>
       <sub><b>Stack:</b> TypeScript &bull; Monaco Editor &bull; Web Workers &bull; Vitest &bull; Vite</sub>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🏎️ <a href="https://github.com/4aru5h/infinite-car-driving">infinite-car-driving</a></h3>
+      <h3 align="left"><a href="https://github.com/4aru5h/infinite-car-driving">infinite-car-driving</a></h3>
       <p>Standalone 3D endless highway driving simulation written in pure C++ using native Win32 window management and double-buffered OpenGL, built with zero external game engine dependencies. Features multi-lane procedural traffic, dynamic atmospheres, and software wave audio synthesis.</p>
       <p>
-        <a href="https://github.com/4aru5h/infinite-car-driving/releases"><b>📦 Download Windows Binary (.exe)</b></a>
+        <a href="https://github.com/4aru5h/infinite-car-driving/releases"><b>Download Windows Binary (.exe)</b></a>
       </p>
       <sub><b>Stack:</b> C++ &bull; OpenGL &bull; Win32 API &bull; Software Wave Audio Synthesis</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🛡️ <a href="https://github.com/4aru5h/Cybersecurity-Automation-And-Intelligent-Threat-Detection">Cybersecurity Capstone</a></h3>
+      <h3 align="left"><a href="https://github.com/4aru5h/Cybersecurity-Automation-And-Intelligent-Threat-Detection">Cybersecurity Capstone</a></h3>
       <p>Integrated security operations suite: multithreaded TCP port scanner with socket timeouts, VirusTotal API enrichment, dual-model ML anomaly detection (Isolation Forest & Random Forest), PTES pentest lab, and hardened Flask REST API architected around STRIDE threat modeling.</p>
       <p>
-        <a href="https://github.com/4aru5h/Cybersecurity-Automation-And-Intelligent-Threat-Detection"><b>🔍 View Threat Architecture</b></a>
+        <a href="https://github.com/4aru5h/Cybersecurity-Automation-And-Intelligent-Threat-Detection"><b>View Threat Architecture</b></a>
       </p>
       <sub><b>Stack:</b> Python 3.11 &bull; Scikit-Learn &bull; Kali Linux &bull; Argon2 &bull; Bandit SAST</sub>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🌐 <a href="https://github.com/4aru5h/4aru5h-portfolio-cms">4aru5h-portfolio-cms</a></h3>
+      <h3 align="left"><a href="https://github.com/4aru5h/4aru5h-portfolio-cms">4aru5h-portfolio-cms</a></h3>
       <p>Personal production portfolio website and custom content management system built with React, Node.js, Express, and PostgreSQL. Features a secured administrative dashboard, session authentication, bcrypt hashing, CSRF defense, rate limiting, and an interactive CTF terminal.</p>
       <p>
-        <a href="https://4aru5h.in"><b>🔗 Live Production Site</b></a>
+        <a href="https://4aru5h.in"><b>Live Production Site</b></a>
       </p>
       <sub><b>Stack:</b> React &bull; Node.js &bull; Express &bull; PostgreSQL &bull; Render</sub>
     </td>
@@ -58,7 +58,7 @@
 
 ---
 
-### 🛠️ Technical Competency Stack
+### Technical Competency Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,java,react,nodejs,express,postgres,mongodb,html,css,tailwind,bash,linux,git,docker,postman,vite&perline=10" alt="Tech Stack" />
@@ -74,7 +74,7 @@
 
 ---
 
-### 📊 GitHub Activity & Language Breakdown
+### GitHub Activity & Language Breakdown
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=4aru5h&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Aarush's GitHub Activity" height="150" />
