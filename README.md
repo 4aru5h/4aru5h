@@ -1,61 +1,88 @@
 # Aarush Sharma
 
-Computer engineering student at MPSTME, NMIMS in Mumbai, India. Software engineer and aspiring cybersecurity professional focused on compilers, systems programming, web applications, and DevSecOps tooling.
+<p align="left">
+  <b>Computer Engineering Student @ NMIMS MPSTME, Mumbai</b><br>
+  Software & Security Engineer specializing in Compilers, Low-Level Graphics, Full-Stack Systems & DevSecOps Automation.
+</p>
 
-[Website](https://4aru5h.in) &nbsp;|&nbsp; [Projects Hub](https://4aru5h.github.io) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/4aru5h) &nbsp;|&nbsp; [Email](mailto:iamaarushmohan@gmail.com)
-
----
-
-### Featured Work
-
-#### bolt-lang
-A toy dynamically typed programming language built from scratch in TypeScript. Combines C-style braces and mandatory semicolons with dynamic typing. The pipeline includes a custom character scanner, recursive descent parser with operator precedence climbing, and an AST tree-walking interpreter running inside a Web Worker. Includes an in-browser playground backed by the Monaco editor with live output streaming.
-
-- Live playground: [boltlang.vercel.app](https://boltlang.vercel.app)
-- Alternative mirror: [4aru5h.github.io/bolt-lang](https://4aru5h.github.io/bolt-lang/)
-- Repository: [github.com/4aru5h/bolt-lang](https://github.com/4aru5h/bolt-lang)
-- Stack: TypeScript, Monaco Editor, Web Workers, Vitest
-
-#### infinite-car-driving
-A standalone 3D endless highway driving simulation written in pure C++ using native Win32 window management and double-buffered OpenGL, built with zero external game engine dependencies. Features multi-lane procedural traffic generation, dynamic atmosphere transitions (day, twilight, rainy, night), planar asphalt reflections, spherical environment mapping for automotive clearcoat, and real-time software audio wave synthesis via `winmm.lib`.
-
-- Repository: [github.com/4aru5h/infinite-car-driving](https://github.com/4aru5h/infinite-car-driving)
-- Stack: C++, OpenGL, Win32 API, Software Wave Synthesis
-
-#### Cybersecurity Capstone
-An integrated security operations suite covering automation, anomaly detection, lab penetration testing, and secure API architecture:
-- Multithreaded TCP port scanner with socket timeout handling and banner extraction.
-- Threat intelligence enrichment leveraging the VirusTotal REST v3 API.
-- Dual-model ML anomaly detection applying Isolation Forest and Random Forest classifiers to network log streams.
-- Formal PTES penetration testing report targeting an isolated lab subnet (`192.168.56.0/24`) with Kali Linux, BIND9 DNS, and Metasploitable 2.
-- Hardened Flask REST API designed around STRIDE threat modeling, Argon2 password hashing, and parameterized query execution.
-
-- Repository: [github.com/4aru5h/Cybersecurity-Automation-And-Intelligent-Threat-Detection](https://github.com/4aru5h/Cybersecurity-Automation-And-Intelligent-Threat-Detection)
-- Stack: Python, Scikit-Learn, Kali Linux, BIND9, Flask, Argon2
-
-#### 4aru5h-portfolio-cms
-Personal website and content management system built with React, Node.js, Express, and PostgreSQL. Features an administrative dashboard for authoring portfolio content and publishing articles without code modifications. Implements session-based authentication, bcrypt hashing, CSRF defense, rate limiting, and security headers.
-
-- Live site: [4aru5h.in](https://4aru5h.in)
-- Repository: [github.com/4aru5h/4aru5h-portfolio-cms](https://github.com/4aru5h/4aru5h-portfolio-cms)
-- Stack: React, Vite, Node.js, Express, PostgreSQL, Render
+<p align="left">
+  <a href="https://4aru5h.in"><img src="https://img.shields.io/badge/Portfolio-4aru5h.in-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://4aru5h.github.io"><img src="https://img.shields.io/badge/Pages_Hub-4aru5h.github.io-10B981?style=for-the-badge&logo=githubpages&logoColor=white" alt="Projects Hub" /></a>
+  <a href="https://linkedin.com/in/4aru5h"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:iamaarushmohan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-### Technical Competencies
+### 🚀 Featured Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">⚡ <a href="https://github.com/4aru5h/bolt-lang">bolt-lang</a></h3>
+      <p>A toy dynamically typed programming language built from scratch in TypeScript. Features an interactive Monaco playground, recursive descent parser with precedence climbing, and AST tree-walking interpreter running inside a Web Worker sandbox with live terminal streaming.</p>
+      <p>
+        <a href="https://boltlang.vercel.app"><b>🌐 Live Web Playground</b></a> &bull; 
+        <a href="https://4aru5h.github.io/bolt-lang/">Alternative Mirror</a>
+      </p>
+      <sub><b>Stack:</b> TypeScript &bull; Monaco Editor &bull; Web Workers &bull; Vitest &bull; Vite</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🏎️ <a href="https://github.com/4aru5h/infinite-car-driving">infinite-car-driving</a></h3>
+      <p>Standalone 3D endless highway driving simulation written in pure C++ using native Win32 window management and double-buffered OpenGL, built with zero external game engine dependencies. Features multi-lane procedural traffic, dynamic atmospheres, and software wave audio synthesis.</p>
+      <p>
+        <a href="https://github.com/4aru5h/infinite-car-driving/releases"><b>📦 Download Windows Binary (.exe)</b></a>
+      </p>
+      <sub><b>Stack:</b> C++ &bull; OpenGL &bull; Win32 API &bull; Software Wave Audio Synthesis</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🛡️ <a href="https://github.com/4aru5h/Cybersecurity-Automation-And-Intelligent-Threat-Detection">Cybersecurity Capstone</a></h3>
+      <p>Integrated security operations suite: multithreaded TCP port scanner with socket timeouts, VirusTotal API enrichment, dual-model ML anomaly detection (Isolation Forest & Random Forest), PTES pentest lab, and hardened Flask REST API architected around STRIDE threat modeling.</p>
+      <p>
+        <a href="https://github.com/4aru5h/Cybersecurity-Automation-And-Intelligent-Threat-Detection"><b>🔍 View Threat Architecture</b></a>
+      </p>
+      <sub><b>Stack:</b> Python 3.11 &bull; Scikit-Learn &bull; Kali Linux &bull; Argon2 &bull; Bandit SAST</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🌐 <a href="https://github.com/4aru5h/4aru5h-portfolio-cms">4aru5h-portfolio-cms</a></h3>
+      <p>Personal production portfolio website and custom content management system built with React, Node.js, Express, and PostgreSQL. Features a secured administrative dashboard, session authentication, bcrypt hashing, CSRF defense, rate limiting, and an interactive CTF terminal.</p>
+      <p>
+        <a href="https://4aru5h.in"><b>🔗 Live Production Site</b></a>
+      </p>
+      <sub><b>Stack:</b> React &bull; Node.js &bull; Express &bull; PostgreSQL &bull; Render</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Technical Competency Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,java,react,nodejs,express,postgres,mongodb,html,css,tailwind,bash,linux,git,docker,postman,vite&perline=10" alt="Tech Stack" />
+</p>
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **Cybersecurity & Tools** | Wireshark, Nessus, Kali Linux, Penetration Testing, Network Analysis, DevSecOps, Git, Bash CLI, MS Excel, Burp Suite |
-| **Languages & Web** | Python, Java, C / C++, Kotlin, PHP, JavaScript, React, Node.js, HTML / CSS, Bootstrap, REST APIs |
-| **Databases & Core CS** | MySQL, MongoDB, Data Structures & Algorithms, Network Protocols (TCP/IP, DNS), Linux Systems |
-| **Domains & Methods** | Vulnerability Assessment, UI/UX Prototyping, RAG & LangGraph, Pinecone Vector DB, Game QA & Godot |
+| **Languages & Systems** | C / C++, TypeScript, JavaScript (ESNext), Python 3, Java, Kotlin, PHP, Bash, SQL, HTML5 / CSS3 |
+| **Cybersecurity & DevSecOps** | Wireshark, Nessus, Kali Linux, Burp Suite, Network Protocols (TCP/IP, DNS), STRIDE Threat Modeling, Bandit & Semgrep SAST |
+| **Frameworks & Runtimes** | React, Node.js, Express, Flask, Vite, OpenGL, Win32 API, Monaco Editor API, Bootstrap |
+| **Databases & Infrastructure** | PostgreSQL, MySQL, MongoDB, Git / GitHub Actions, Linux Systems Administration, REST APIs |
+| **Specialized Concepts** | Compiler Design (Lexing, AST, Precedence Climbing), Procedural Generation, Anomaly Detection ML, RAG & LangGraph |
 
 ---
 
-### Activity & Language Breakdown
+### 📊 GitHub Activity & Language Breakdown
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4aru5h&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=4aru5h&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=stars" alt="GitHub Activity" />
+  <img src="https://github-readme-stats.vercel.app/api?username=4aru5h&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Aarush's GitHub Activity" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4aru5h&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="150" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Engineered with precision by <a href="https://github.com/4aru5h">Aarush Sharma</a>. Open to Software Engineering, Systems, and Security roles.</sub>
 </p>
