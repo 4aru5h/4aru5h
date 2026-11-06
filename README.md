@@ -48,8 +48,20 @@ Personal portfolio and custom CMS built with React, Node.js, Express, and Postgr
 
 ---
 
-### Working With
+### Technical Competency Stack
 
-C/C++, TypeScript, Python, MATLAB, React, Node.js, and Linux.
+<p align="left">
+  <img src="./techstack.svg" alt="Technical Competency Stack" />
+</p>
 
-More projects and demos at [4aru5h.github.io](https://4aru5h.github.io).
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Languages & Systems** | C / C++, TypeScript, JavaScript (ESNext), Python 3, MATLAB, Java, Kotlin, PHP, Bash, SQL, HTML5 / CSS3 |
+| **Cybersecurity & DevSecOps** | Wireshark, Nessus, Kali Linux, Burp Suite, Network Protocols (TCP/IP, DNS), STRIDE Threat Modeling, Bandit & Semgrep SAST |
+| **Frameworks & Runtimes** | React, Node.js, Express, Flask, Vite, OpenGL, Win32 API, Monaco Editor API, Bootstrap |
+| **Databases & Infrastructure** | PostgreSQL, MySQL, MongoDB, Git / GitHub Actions, Linux Systems Administration, REST APIs |
+| **Specialized Concepts** | Compiler Design (Lexing, AST, Precedence Climbing), Procedural Generation, Anomaly Detection ML, RAG & LangGraph |
+
+---
+
+More projects and experiments live at [4aru5h.github.io](https://4aru5h.github.io).
