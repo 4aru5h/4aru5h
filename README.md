@@ -1,82 +1,55 @@
 # Aarush Sharma
 
-<p align="left">
-  <b>Computer Engineering Student @ NMIMS MPSTME, Mumbai</b><br>
-  Software & Security Engineer specializing in Compilers, Low-Level Graphics, Full-Stack Systems & DevSecOps Automation.
-</p>
+Computer engineering student at NMIMS MPSTME, Mumbai. I build languages, web systems, and security tools to understand how they work from the ground up.
 
-<p align="left">
-  <a href="https://4aru5h.in"><img src="https://img.shields.io/badge/Portfolio-4aru5h.in-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://4aru5h.github.io"><img src="https://img.shields.io/badge/Pages_Hub-4aru5h.github.io-10B981?style=for-the-badge&logo=githubpages&logoColor=white" alt="Projects Hub" /></a>
-  <a href="https://linkedin.com/in/4aru5h"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:iamaarushmohan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<a href="https://4aru5h.in"><img src="https://img.shields.io/badge/4aru5h.in-portfolio-2563EB?style=flat-square" alt="Portfolio"></a>
+<a href="https://linkedin.com/in/4aru5h"><img src="https://img.shields.io/badge/LinkedIn-4aru5h-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ---
 
-### Featured Work
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left"><a href="https://github.com/4aru5h/bolt-lang">bolt-lang</a></h3>
-      <p>A toy dynamically typed programming language built from scratch in TypeScript. Features an interactive Monaco playground, recursive descent parser with precedence climbing, and AST tree-walking interpreter running inside a Web Worker sandbox with live terminal streaming.</p>
-      <p>
-        <a href="https://boltlang.vercel.app"><b>Live Web Playground</b></a> &bull;
-        <a href="https://4aru5h.github.io/bolt-lang/">Alternative Mirror</a>
-      </p>
-      <sub><b>Stack:</b> TypeScript &bull; Monaco Editor &bull; Web Workers &bull; Vitest &bull; Vite</sub>
-    </td>
+
+**[bolt-lang](https://github.com/4aru5h/bolt-lang)**<br>
+A toy dynamically typed programming language built in TypeScript: lexer, recursive descent parser, AST tree-walking interpreter, and an in-browser Monaco playground running in a Web Worker.<br>
+<a href="https://boltlang.vercel.app">Playground</a><br>
+<sub>TypeScript · Monaco Editor · Web Workers · Vitest</sub>
+
+</td>
     <td width="50%" valign="top">
-      <h3 align="left"><a href="https://github.com/4aru5h/infinite-car-driving">infinite-car-driving</a></h3>
-      <p>Standalone 3D endless highway driving simulation written in pure C++ using native Win32 window management and double-buffered OpenGL, built with zero external game engine dependencies. Features multi-lane procedural traffic, dynamic atmospheres, and software wave audio synthesis.</p>
-      <p>
-        <a href="https://github.com/4aru5h/infinite-car-driving/releases"><b>Download Windows Binary (.exe)</b></a>
-      </p>
-      <sub><b>Stack:</b> C++ &bull; OpenGL &bull; Win32 API &bull; Software Wave Audio Synthesis</sub>
-    </td>
+
+**[sns-vocal-pitch-corrector](https://github.com/4aru5h/sns-vocal-pitch-corrector)**<br>
+Vocal pitch correction in plain MATLAB without external toolboxes. Features YIN fundamental frequency tracking, Wiener spectral noise reduction, and TD-PSOLA resynthesis from first principles.<br>
+<sub>MATLAB · DSP · Signals & Systems · 38 Tests</sub>
+
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left"><a href="https://github.com/4aru5h/Cybersecurity-Automation-And-Intelligent-Threat-Detection">Cybersecurity Capstone</a></h3>
-      <p>Integrated security operations suite: multithreaded TCP port scanner with socket timeouts, VirusTotal API enrichment, dual-model ML anomaly detection (Isolation Forest & Random Forest), PTES pentest lab, and hardened Flask REST API architected around STRIDE threat modeling.</p>
-      <p>
-        <a href="https://github.com/4aru5h/Cybersecurity-Automation-And-Intelligent-Threat-Detection"><b>View Threat Architecture</b></a>
-      </p>
-      <sub><b>Stack:</b> Python 3.11 &bull; Scikit-Learn &bull; Kali Linux &bull; Argon2 &bull; Bandit SAST</sub>
-    </td>
+
+**[Cybersecurity Capstone](https://github.com/4aru5h/Cybersecurity-Automation-And-Intelligent-Threat-Detection)**<br>
+Security automation suite: multithreaded TCP port scanner, VirusTotal threat intelligence integration, ML-based anomaly detection, PTES lab assessment, and a hardened Flask REST API.<br>
+<sub>Python · Scikit-Learn · Kali Linux · STRIDE</sub>
+
+</td>
     <td width="50%" valign="top">
-      <h3 align="left"><a href="https://github.com/4aru5h/4aru5h-portfolio-cms">4aru5h-portfolio-cms</a></h3>
-      <p>Personal production portfolio website and custom content management system built with React, Node.js, Express, and PostgreSQL. Features a secured administrative dashboard, session authentication, bcrypt hashing, CSRF defense, rate limiting, and an interactive CTF terminal.</p>
-      <p>
-        <a href="https://4aru5h.in"><b>Live Production Site</b></a>
-      </p>
-      <sub><b>Stack:</b> React &bull; Node.js &bull; Express &bull; PostgreSQL &bull; Render</sub>
-    </td>
+
+**[4aru5h-portfolio-cms](https://github.com/4aru5h/4aru5h-portfolio-cms)**<br>
+Personal portfolio and custom CMS built with React, Node.js, Express, and PostgreSQL/SQLite. Includes a content management dashboard and an interactive terminal.<br>
+<a href="https://4aru5h.in">Live Site</a><br>
+<sub>React · Node.js · Express · PostgreSQL / SQLite</sub>
+
+</td>
   </tr>
 </table>
 
 ---
 
-### Technical Competency Stack
+### Working With
 
-<p align="left">
-  <img src="./techstack.svg" alt="Technical Competency Stack" />
-</p>
+C/C++, TypeScript, Python, MATLAB, React, Node.js, and Linux.
 
-| Domain | Tools & Technologies |
-| :--- | :--- |
-| **Languages & Systems** | C / C++, TypeScript, JavaScript (ESNext), Python 3, Java, Kotlin, PHP, Bash, SQL, HTML5 / CSS3 |
-| **Cybersecurity & DevSecOps** | Wireshark, Nessus, Kali Linux, Burp Suite, Network Protocols (TCP/IP, DNS), STRIDE Threat Modeling, Bandit & Semgrep SAST |
-| **Frameworks & Runtimes** | React, Node.js, Express, Flask, Vite, OpenGL, Win32 API, Monaco Editor API, Bootstrap |
-| **Databases & Infrastructure** | PostgreSQL, MySQL, MongoDB, Git / GitHub Actions, Linux Systems Administration, REST APIs |
-| **Specialized Concepts** | Compiler Design (Lexing, AST, Precedence Climbing), Procedural Generation, Anomaly Detection ML, RAG & LangGraph |
-
----
-
-### Activity & Most Used Languages
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4aru5h&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=4aru5h&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="150" />
-</p>
+More projects and demos at [4aru5h.github.io](https://4aru5h.github.io).
