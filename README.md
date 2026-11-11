@@ -63,5 +63,3 @@ Personal portfolio and custom CMS built with React, Node.js, Express, and Postgr
 | **Specialized Concepts** | Compiler Design (Lexing, AST, Precedence Climbing), Procedural Generation, Anomaly Detection ML, RAG & LangGraph |
 
 ---
-
-More projects and experiments live at [4aru5h.github.io](https://4aru5h.github.io).
