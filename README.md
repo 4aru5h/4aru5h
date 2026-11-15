@@ -1,6 +1,6 @@
 # Aarush Sharma
 
-Computer engineering student at NMIMS MPSTME, Mumbai. I build languages, web systems, and security tools to understand how they work from the ground up.
+Computer engineering student at NMIMS MPSTME, Mumbai. I build languages, web systems, and security tools to understand how they operate from the ground up.
 
 <a href="https://4aru5h.in"><img src="https://img.shields.io/badge/4aru5h.in-portfolio-2563EB?style=flat-square" alt="Portfolio"></a>
 <a href="https://linkedin.com/in/4aru5h"><img src="https://img.shields.io/badge/LinkedIn-4aru5h-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
